@@ -1,5 +1,5 @@
 # ECE-614 - Deep Learning
 # University of Louisville
-## Lab 1
+### Lab Assignments
 ### by John Moore & Arlex Marin
 
